@@ -10,8 +10,8 @@ mdp : Polytech
 
 Three main features:
 
-Add a book
+Add a book 
 
 Modify a book : some tricks here because when you modify the title of the book, it shows an error but when you go back the modification is done ... 
 
-Delete a book
+Delete a book : Unfortunately this function does not work
